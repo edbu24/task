@@ -1,4 +1,4 @@
-# task
+# Execute test
 Steps to execute the test:
 
 Clone the repository
